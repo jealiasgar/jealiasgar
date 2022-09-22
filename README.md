@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**jealiasgar/jealiasgar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a products crawler and image tagger backend
+- 🌱 I’m currently learning NestJS
+- 👯 I’m looking to collaborate on any backend requirements
+- 💬 Ask me about NodeJS | JavaScript | MongoDB | Integrations | Docker | DevOps
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aliasgar-pocketwala-a1374b107/)
+- ⚡ Fun fact: In javascript the difference in parenthesis position can make two functions different.
+```
+function f1() {
+   return
+   {
+      grade: 'A+'
+   }
+}
+function f2() {
+   return {
+      grade: 'A+'
+   }
+}
+typeof f1() === typeof f2(); // -> false
+```
